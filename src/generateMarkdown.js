@@ -1,8 +1,10 @@
-
-
 function generateMarkdown(data) {
+
     return `
+
 # <h1> ${data.project}</h1>
+
+![License](https://img.shields.io/static/v1?label=License&message=${encodeURIComponent(data.license)}&color=brightgreen)
     
 # Table of Contents:
 * [Description](#description)
@@ -11,13 +13,13 @@ function generateMarkdown(data) {
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Inquiries](#inquire)
+* [Inquiries](#inquiries)
     
 ## Description:
     
 ${data.description}
     
-## Installtion:
+## Installation:
     
 ${data.installation}
     
@@ -41,7 +43,7 @@ ${data.tests}
     
 Any questions on this project, feel free to contact the developer at:
     
-GitHub: <https://github.com/${data.githubusername}>
+GitHub: <https://github.com/${encodeURIComponent(data.username)}>
     
 Email: <${data.email}>
 
