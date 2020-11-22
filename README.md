@@ -1,6 +1,6 @@
 
 
-# <h1> Repository Title Here</h1>
+# <h1> README Generator</h1>
 
 ![License](https://img.shields.io/static/v1?label=License&message=MIT%20License&color=brightgreen)
     
@@ -15,15 +15,15 @@
     
 ## Description:
     
-Description Here
+A simple console based application that allows the user to create professional README files quickly and easily.
     
 ## Installation:
     
-Installation instructions here
+Please *fork* the repository and *git clone <repository>* to your local device. Then run *npm install inquirer* in the console. See **Usage** for more instructions.
     
 ## Usage:
     
-Usage instructions here
+To use application from the command line, run *node index* or *node index.js* in the console and step through process to create your README!
     
 ## License: 
 
@@ -31,17 +31,17 @@ MIT License
     
 ## Contributing:
     
-Contribution instructions here
+Please report any issues or send an email to the address below to inform me of your use of the application.
     
 ## Tests:
     
-Test instructions here
+
     
 ## Inquiries:
     
 Any questions on this project, feel free to contact the developer at:
     
-GitHub: <https://github.com/githubusername>
+GitHub: <https://github.com/JonahBCoding>
     
-Email: <webdeveloper@webdev.com>
+Email: <jonahbenson13@gmail.com>
 
