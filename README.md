@@ -34,7 +34,7 @@ MIT License
 Please report any issues or send an email to the address below to inform me of your use of the application.
     
 ## Tests:
-    
+![alt text](https://github.com/JonahBCoding/readme-generator/blob/master/media/Usagewebm_Trim.webm)
 
     
 ## Inquiries:
