@@ -1,6 +1,6 @@
 
 
-# <h1> eabvaevadvvv</h1>
+# <h1> README Generator </h1>
 
 ![License](https://img.shields.io/static/v1?label=License&message=MIT%20License&color=brightgreen)
     
@@ -15,7 +15,7 @@
     
 ## Description:
     
-vvvvvvvv
+
     
 ## Installation:
     
@@ -23,7 +23,7 @@ aefvaegvevea
     
 ## Usage:
     
-aevcevavadvadv
+![alt text](https://github.com/JonahBCoding/readme-generator/blob/master/media/USAGEVID.gif)
     
 ## License: 
 
